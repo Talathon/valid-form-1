@@ -1,0 +1,25 @@
+.d-none {
+    display: none;
+}
+.true_false{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.true{
+    padding: 10px;
+    background-color: aquamarine;
+
+}
+.false{
+    padding: 10px;
+    background-color: red;
+}
+.lorem{
+    padding: 30px;
+    border: 3px solid black;
+}
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+}
